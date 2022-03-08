@@ -1,0 +1,37 @@
+@import 'components/variables'; 
+
+
+// General classes 
+.dark{
+    background-color: black !important;
+    transition: 0.5s;
+}
+    
+.dark-text{
+    color: white !important;
+    transition: 0.5s;
+
+}
+
+.light{
+    background-color: white; 
+    transition: 0.5s;
+}
+    
+.light-text{
+    color: black;
+    transition: 0.5s;
+
+}
+
+.btn{
+    border-radius: 0px !important;
+}
+
+.progress{
+    border-radius: 0px !important;
+}
+
+body{
+    transition: 0.5s;
+}

@@ -1,0 +1,20 @@
+@import '../variables'; 
+
+.header{
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    &__title{
+        padding-bottom: 20px;
+        font-weight: $font-weight-light;
+    }
+
+    &__link{
+        font-weight: $font-weight-light;
+     
+    }
+
+    &__paragraph{
+        font-weight: $font-weight-light;
+    }
+}

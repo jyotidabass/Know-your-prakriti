@@ -1,0 +1,149 @@
+[
+    {
+        "id":       1,
+        "question": "Weight" ,
+        "a" :       "Usually thin, often difficult to put on weight, visible ribs, weight can vary",
+        "b" :       "Medium build, good muscle tone",
+        "c" :       "Larger, difficult to lose weight, heavy bones"
+    },
+    {
+        "id":       2,
+        "question": "Skin" ,
+        "a" :       "Dry, cool, rough, thin, dull",
+        "b" :       "Oily, smooth, warm, freckles & moles, rosy or copper. sunburns easily",
+        "c" :       "Oily, cool, pale, thick, damp"
+    },
+    {
+        "id":       3,
+        "question": "Hair" ,
+        "a" :       "Thin, kinky, dry, brittle",
+        "b" :       "Reddish tinge, oily, early receding or balding, graying medium thickness",
+        "c" :       "Thick, oily, wavy, luxurious"
+    },
+    {
+        "id":       4,
+        "question": "Eyes" ,
+        "a" :       "Smaller, scanty lashes, white part looks, a bit gray, nervous, blinking",
+        "b" :       "Piercing, intense, light sensitive, white part often reddish or yellow",
+        "c" :       "Larger, calm, thick lashes, beautiful, white part clear & white"
+    },
+    {
+        "id":       5,
+        "question": "Teeth & Gums" ,
+        "a" :       "Too many or not enough teeth, irregular, gaps, overcrowded, receding gums",
+        "b" :       "Moderate size, teeth can yellow, gums bleed easily",
+        "c" :       "Large white, healthy, nicely formed"
+    },
+    {
+        "id":       6,
+        "question": "Joints" ,
+        "a" :       "Proment, stiff, crack easily",
+        "b" :       "Loose, moderate sized",
+        "c" :       "Larger, firm"
+    },
+    {
+        "id":       7,
+        "question": "Circulation" ,
+        "a" :       "Variable to poor (eg: cold hands & feet)",
+        "b" :       "Good, strong, red nails",
+        "c" :       "Moderate"
+    },
+    {
+        "id":       8,
+        "question": "Appetite" ,
+        "a" :       "Irregular, variable, skips meals",
+        "b" :       "Strong to excessive",
+        "c" :       "Steady but constant"
+    },
+    {
+        "id":       9,
+        "question": "Sweat" ,
+        "a" :       "Minimal, not a strong odor",
+        "b" :       "Profuse, strong odor",
+        "c" :       "Present moderate odor"
+    },
+    {
+        "id":       10,
+        "question": "Stool" ,
+        "a" :       "Irregular; not always daily, constipated, hard, little pieces, gas",
+        "b" :       "Regular; daily + soft, loose, burns, can be yellowish or greenish",
+        "c" :       "Large well formed, oily, regular, but not too frequent"
+    },
+    {
+        "id":       11,
+        "question": "Thirst" ,
+        "a" :       "Scanty, irregular",
+        "b" :       "Strong, excessive",
+        "c" :       "Moderate"
+    },
+    {
+        "id":       12,
+        "question": "Nose" ,
+        "a" :       "Deviated, septum, irregular",
+        "b" :       "Longer, pointed, tip may be red, sharp",
+        "c" :       "Wider, rounder, shorter, thicker, fleshy"
+    },
+    {
+        "id":       13,
+        "question": "Neck" ,
+        "a" :       "Thin, fine, long",
+        "b" :       "Medium",
+        "c" :       "Wide, stronger"
+    },
+    {
+        "id":       14,
+        "question": "Emotions" ,
+        "a" :       "Enthusiastic, fearful, tends to worry",
+        "b" :       "Courageous, intense, quick to anger",
+        "c" :       "Calm, can be over-attached & posseive, slow to anger"
+    },
+    {
+        "id":       15,
+        "question": "Temperament" ,
+        "a" :       "Variable, changeable, excitable, creative, sociable, makes friends easily",
+        "b" :       "Motivated, competitive, driven, impatient, controlling, likes to interact for a purpose",
+        "c" :       "Happy & easy going, can be lazy reserved"
+    },
+    {
+        "id":       16,
+        "question": "Speech" ,
+        "a" :       "Fast, frequent, higher-pitched, can go on tangents",
+        "b" :       "Good orators, articulate, can be sharp, argumentative, medium tone",
+        "c" :       "Slower, silent, methodical, deeper voiced"
+    },
+    {
+        "id":       17,
+        "question": "Mind" ,
+        "a" :       "Very quick, adaptable, curious, restless, can lose interest quickly",
+        "b" :       "Sharp intellect, penetrating, critical",
+        "c" :       "Slower to respond, lethargic"
+    },
+    {
+        "id":       18,
+        "question": "Faith" ,
+        "a" :       "Erratic, variable",
+        "b" :       "Strong, determined, possible fanatic",
+        "c" :       "Steady, slow to change, consisten"
+    },
+    {
+        "id":       19,
+        "question": "Memory" ,
+        "a" :       "Quick but, absent-minded, learns & forgets easily",
+        "b" :       "Sharp, clear",
+        "c" :       "Slower to grasp initial idea but once remembers does not forget easily"
+    },
+    {
+        "id":       20,
+        "question": "Sleep" ,
+        "a" :       "Light, poor, disturbed, insomnia",
+        "b" :       "Medium but satisfying",
+        "c" :       "Heavy to excessive"
+    },
+    {
+        "id":       21,
+        "question": "Response to Stress" ,
+        "a" :       "Fear, anxiety, mind spinning",
+        "b" :       "Anger, jealousy, feelings of hate",
+        "c" :       "Withdrawn, greedy, possessive"
+    }
+]

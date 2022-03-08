@@ -1,0 +1,19 @@
+@import '../variables'; 
+
+.counter{
+    padding-top: 30px;
+
+    &-row-button{
+        padding-bottom: 30px;
+    }
+
+    &__result{
+        font-weight: $font-weight-light;
+    }
+
+    &__bar{
+        margin-bottom: 20px;
+        height: 2.5rem;
+        background-color: initial;
+    }
+}

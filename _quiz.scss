@@ -1,0 +1,17 @@
+@import '../variables'; 
+
+.quiz{
+
+    &-col{
+        padding-bottom: 25px;
+
+        &__question{
+            font-weight: $font-weight-light;
+        }
+
+        &__alternatives{
+            font-weight: $font-weight-light;
+        }
+    }
+
+}
